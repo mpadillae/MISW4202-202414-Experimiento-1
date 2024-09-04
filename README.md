@@ -91,7 +91,25 @@ http://172.0.0.1:5000/status
 
 
 ## Capturas
-wip.
+|  <img width="537" alt="Captura de pantalla 2024-09-04 a la(s) 12 13 37" src="https://github.com/user-attachments/assets/9ccd871b-b26e-458a-8e42-bae029db4cf4"> | 
+|---| 
+| Se realiza la solicitud para consultar el estado del receptor de CallCenter desde el API del Monitor. |
+
+| <img width="1391" alt="Captura de pantalla 2024-09-04 a la(s) 12 14 08" src="https://github.com/user-attachments/assets/dc851a67-4bcc-45a1-b06f-24fc3c513002"> | 
+|---| 
+| La plataforma de mensajes recibe el mensaje y lo envia al receptor de CallCenter. |
+
+| <img width="1388" alt="Captura de pantalla 2024-09-04 a la(s) 12 15 09" src="https://github.com/user-attachments/assets/d35a9139-c1f2-490a-9bb5-e3b11fd084d8"> | 
+|---| 
+| El receptor de CallCenter recibe el mensaje de la plataforma de mensajes y le responde con su estado actual: disponible/no disponible. |
+
+| <img width="1379" alt="Captura de pantalla 2024-09-04 a la(s) 12 15 25" src="https://github.com/user-attachments/assets/0972a432-4839-4139-b065-ffa28ab62ae2"> | 
+|---| 
+| La plataforma de mensajes recibe la respuesta del receptor de CallCenter y la envia al Monitor.|
+
+| <img width="1381" alt="Captura de pantalla 2024-09-04 a la(s) 12 15 38" src="https://github.com/user-attachments/assets/571efd44-6d7d-48e9-8125-818295d3f54f"> | 
+|---| 
+| El Monitor recibe la respuesta de la plataforma de mensajes sobre el estado del receptor de CallCenter. |
 
 ## License
 
