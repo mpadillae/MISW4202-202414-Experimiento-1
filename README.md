@@ -85,7 +85,7 @@ pip install -r requirements.txt
 Abrir un navegador o un cliente HTTP para ejecutar la siguiente petición GET:
 
 ```
-http://172.0.0.1:5000/status
+http://127.0.0.1:5000/status
 ```
 **Nota:** La respuesta asíncrona que contiene el estado del receptor de callcenter podrá verse en la consola del monitor (celery).
 
