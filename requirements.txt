@@ -8,3 +8,4 @@ jsonify
 redis
 celery
 requests
+colored
